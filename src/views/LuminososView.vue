@@ -3,7 +3,19 @@
         <div class="card-body mx-auto d-block">
             <h3 class="card-title"><strong>Misterios Luminosos</strong></h3>
             <InicioRosario/>
-            
+            <PrimerLuminoso/>
+            <PadreNuestro/>
+            <AveMaria/>
+            <AveMaria/>
+            <AveMaria/>
+            <AveMaria/>
+            <AveMaria/>
+            <AveMaria/>
+            <AveMaria/>
+            <AveMaria/>
+            <AveMaria/>
+            <AveMaria/>
+            <GloriaMisterios/>
             
         </div>
     </div>
@@ -11,7 +23,10 @@
   
   <script setup>
   import InicioRosario from '@/components/InicioRosario.vue'
-  
+  import PrimerLuminoso from '@/components/PrimerLuminoso.vue'
+  import PadreNuestro from '@/components/PadreNuestro.vue'
+  import AveMaria from '@/components/AveMaria.vue'
+  import GloriaMisterios from '@/components/GloriaMisterios.vue'
   
   
   

@@ -7,6 +7,7 @@ import GozososView from '../views/GozososView.vue'
 import LuminososView from '../views/LuminososView.vue'
 
 
+
 const routes = [
   {
     path: '/historia',
@@ -38,6 +39,7 @@ const routes = [
     name: 'luminosos',
     component: LuminososView
   }
+  
 ]
 
 const router = createRouter({

@@ -7,10 +7,10 @@
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title fs-2 mx-auto d-block" id="exampleModalLabel">5° Misterio: La institución de la Eucaristía </h5>
+                        <h5 class="modal-title fs-4 mx-auto d-block" id="exampleModalLabel">5° Misterio: La institución de la Eucaristía </h5>
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
-                    <div class="modal-body fs-4">
+                    <div class="modal-body fs-5">
                         <p>
                             «Mientras estaban comiendo, tomó Jesús pan y lo bendijo, lo partió y, dándoselo a sus discípulos,<br>
                             dijo: "Tomad, comed, éste es mi cuerpo"» (Mt 26, 26). 
@@ -39,6 +39,8 @@ const cambiaColor = ()=> {c.value = '#ecab13'}
     background-color: $bg_popup;
 
 } 
-
+button:hover {
+    box-shadow: $shadow_button;
+}
 
 </style>

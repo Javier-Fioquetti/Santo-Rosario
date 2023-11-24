@@ -1,16 +1,16 @@
 <template>
     <div class="card-body" >
         <button :style="{background: c}" type="button" class="btn btn-info .bg-info.bg-gradiente focus-ring-dark py-2 px-3 text-decoration-none border rounded-5 mx-auto d-block" @click="cambiaColor()" data-bs-toggle="modal" data-bs-target="#quintoDoloroso">
-        <strong>Quinto Misterio Dolorosos</strong>
+        <strong>Quinto Misterio</strong>
         </button>
         <div class="modal fade" id="quintoDoloroso" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title fs-2 mx-auto d-block" id="exampleModalLabel">5° Misterio: La crucifixión y muerte de Jesús</h5>
+                        <h5 class="modal-title fs-4 mx-auto d-block" id="exampleModalLabel">5° Misterio: La crucifixión y muerte de Jesús</h5>
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
-                    <div class="modal-body fs-4">
+                    <div class="modal-body fs-5">
                         <p>
                             «Llegados al lugar llamado "La Calavera", le crucificaron allí a él y a los dos malhechores, <br>
                             uno a la derecha y otro a la izquierda. Jesús decía: "Padre, perdónales, porque no saben<br>
@@ -43,6 +43,8 @@ const cambiaColor = ()=> {c.value = '#ecab13'}
     background-color: $bg_popup;
 
 } 
-
+button:hover {
+    box-shadow: $shadow_button;
+}
 
 </style>

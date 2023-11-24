@@ -1,6 +1,6 @@
 <template>
   <div class="collapse" id="navbarToggleExternalContent">
-    <div class="bg-image" style="background-image:  url('https://media.diariouno.com.ar/p/05c9a655d99b671c56663573176e75a2/adjuntos/298/imagenes/009/019/0009019432/1200x675/smart/como-rezar-el-rosariojpeg.jpeg');">
+    <div class="bg-image">
       <div class="btn-group-vertical">
           <router-link to="/historia" type="button" class="btn btn-outline-info">Historia del Rosario</router-link> 
           <router-link to="/comoRezar" type="button" class="btn btn-outline-info">Cómo Rezar</router-link>
@@ -18,10 +18,28 @@
       </button>
     </div>
   </nav>
+
+  <div class="footer">
+  
+  </div>
   <router-view/>
+
+
   
 </template>
 
 <style lang="scss">
+.footer {
+  background-image: url('https://images.unsplash.com/photo-1639971802307-269101982f19?q=80&w=1562&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-size: cover;
+  height: 50vh;
+  width: 100vw;
+}
+.bg-image {
+  background-image: url('https://elobservadorenlinea.com/wp-content/uploads/2021/10/dante010-1586971040128-cathopic.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 
 </style>

@@ -11,8 +11,8 @@
           los <strong>Dolorosos</strong>, los <strong>Gloriosos</strong> y <br>
           los <strong>Luminosos</strong>(estos últimos fueron agregados por el Papa <br>
           Juan Pablo II). <br> 
-          Si bien cada uno puede rezar los Misterios Gozosos, Dolorosos y Gloriosos <br>
-          a su elección, lo habitual es decir Los <strong>lunes y sábados</strong> <br> 
+          Si bien cada uno puede rezar los Misterios Gozosos, Dolorosos, Gloriosos y  <br>
+          Luminosos a su elección, lo habitual es decir Los <strong>lunes y sábados</strong> <br> 
           se reflexionan sobre los <strong>misterios Gozosos</strong>; los martes y viernes,<br>
           los <strong>Dolorosos</strong>; los <strong>jueves</strong>, los<br>
           <strong>Luminosos</strong>, los <strong>miércoles y domingos</strong>, <br>
@@ -59,7 +59,7 @@ h3, p {
   margin-bottom: 10px;
   .card-body {
     height: auto;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.90);
     border-radius: 3%;
   }
 }

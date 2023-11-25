@@ -1,7 +1,7 @@
 <template>
   <div class="card" style="width: 100vw;">
       <div class="card-body mx-auto d-block">
-          <h3 class="card-title"><strong>Misterios Luminosos</strong></h3>
+          <h3 class="card-title"><strong>Misterios Gloriosos</strong></h3>
           <div id="header-1"></div>
           <InicioRosario/>
           <PrimerGlorioso/>

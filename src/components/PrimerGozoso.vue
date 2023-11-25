@@ -39,7 +39,7 @@ const cambiaColor = ()=> {c.value = '#ecab13'}
 .modal-content {
     background-color: $bg_popup;
 
-} 
+}  
 
 button:hover {
     box-shadow: $shadow_button;

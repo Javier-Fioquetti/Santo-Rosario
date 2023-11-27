@@ -4,9 +4,9 @@
       <h3 class="card-title"><strong>Orígenes del Santo Rosario</strong></h3>
       <div class="modal-body fs-4">
         <p>
-          La tradición del Rosario, tal como se conoce hoy en día,<br>
+          La orígen del Santo Rosario, tal como se conoce hoy en día,<br>
           se atribuye a Santo Domingo de Guzmán en el siglo XIII. <br>
-          Según la leyenda, la Virgen María se le apareció y le en- <br> 
+          Según la Tradición, la Virgen María se le apareció y le en- <br> 
           tregó el Rosario como un medio para combatir la herejía <br> 
           albigense y promover la devoción a su Hijo, Jesucristo. <br>
           María instruyó a Santo Domingo sobre la importancia de me- <br>
@@ -20,14 +20,14 @@
           se atribuyó a la intercesión de la Virgen María a través de <br>
           la oración del Rosario. <br><br>
           A lo largo de los siglos, el Rosario ha sido un símbolo de devo- <br>
-          ción mariana y una práctica común entre los católicos. Se ha divi- <br>
-          dido en cuatro conjuntos de misterios (Gozosos, Dolorosos, Glorio- <br>
+          ción mariana y una práctica común entre los católicos. Se divi- <br>
+          de en cuatro conjuntos de misterios (Gozosos, Dolorosos, Glorio- <br>
           sos y Luminosos), cada uno centrado en diferentes aspectos de la <br>
           vida de Jesús y María. La práctica del Rosario ha sido alentada por <br>
           varios papas a lo largo de la historia como un medio poderoso para <br>
           la oración, la reflexión y la conexión con la fe católica. <br><br>
-          Sin embargo, los misterios luminosos fueron agregados más reciente- <br>
-          mente en la historia de la Iglesia Católica. Estos misterios lumino- <br>
+          Cabe aclarar que los misterios luminosos fueron agregados más reciente- <br>
+          mente en la historia de la Iglesia. Estos misterios lumino- <br>
           sos, también conocidos como los "misterios de luz", son cinco episo- <br>
           dios en la vida pública de Jesús que se incorporaron al Rosario para <br>
           complementar los misterios existentes (Gozosos, Dolorosos y Gloriosos). <br>

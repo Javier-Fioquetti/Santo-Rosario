@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">rosario-2</string>
-    <string name="title_activity_main">rosario-2</string>
-    <string name="package_name">rosario.app</string>
-    <string name="custom_url_scheme">rosario.app</string>
-</resources>
